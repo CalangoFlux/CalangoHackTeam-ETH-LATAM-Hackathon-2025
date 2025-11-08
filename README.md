@@ -22,7 +22,7 @@ O sistema é dividido em três camadas interdependentes:
 
 ### 1. Camada de Registro (On-chain)
 - Gera hashes das evidências em redes compatíveis com **EVM** (Ethereum, Arbitrum, Base, Polygon).
-- Usa padrões **ERC-721** e **ERC-1155** para criação de cápsulas NFT (Trust Capsules).
+- Usa padrões **ERC-721** para criação de cápsulas NFT (Trust Capsules).
 - Registra tempo, origem e integridade da interação.
 
 ### 2. Camada de Contexto (Off-chain)
@@ -71,7 +71,7 @@ O Trust Capsule segue integralmente os princípios **ESG**, **ODS** e **NetZero*
 ## 🔐 Estrutura do Repositório
 trust-capsule/
 │
-├── contracts/          # Contratos Solidity (ERC721 / ERC1155 / TrustLogic)
+├── contracts/          # Contratos Solidity (ERC721 / TrustLogic)
 ├── core/               # Módulos de validação e lógica off-chain
 ├── api/                # Endpoints de integração (Node.js / FastAPI)
 ├── ui/                 # Interface de visualização e dashboard reputacional
@@ -197,4 +197,5 @@ Desenvolvido por **CalangoFlux**
 
 > “Trust Capsule — confiança verificável para a nova era das relações digitais.”
 >
+
 

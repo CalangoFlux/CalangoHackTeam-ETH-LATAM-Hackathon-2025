@@ -50,7 +50,7 @@ O **Trust Capsule** elimina essa lacuna ao introduzir uma camada objetiva e veri
 
 ## 🧩 Casos de Uso
 
-- **Governança DAO:** registro verificável de votos, decisões e quóruns.
+- **Governança Descentralizada:** registro verificável de votos, decisões e quóruns.
 - **Colaborações Web3:** evidência de entregas, coautorias e contribuições.
 - **Projetos ESG e impacto:** rastreabilidade de compromissos e indicadores sustentáveis.
 - **Sistemas reputacionais:** criação de NFTs de confiança e histórico de interações.
@@ -197,3 +197,4 @@ Desenvolvido por **CalangoFlux**
 
 > “Trust Capsule — confiança verificável para a nova era das relações digitais.”
 >
+
